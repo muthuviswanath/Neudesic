@@ -1,6 +1,8 @@
 import { NgModule, NO_ERRORS_SCHEMA} from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+//comments
+
 import { AppComponent } from './app.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
